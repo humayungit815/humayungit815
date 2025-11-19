@@ -75,28 +75,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎨 Modern Portfolio
-Creative UI • Animation • Tailwind + React  
-🔗 Live: your-link  
-💻 Code: https://github.com/humayungit815/your-portfolio
-
----
-
-## 🛒 E-Commerce MERN App
-Cart • Auth • Admin Panel  
-🔗 Live: your-link  
-💻 Code: your-repo-link
-
----
-
-## ✍️ Blog Application
-Full CRUD • JWT Auth • Dashboard  
-🔗 Live: your-link  
-💻 Code: your-repo-link
-
----
 
 # 🏅 Achievements
 
