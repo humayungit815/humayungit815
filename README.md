@@ -25,6 +25,17 @@
 
 ---
 
+# 🔗 Follow Me on Social
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/humayun-kobir-39a369376/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humayun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/humayun.kobir.810316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayun" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 # 🧠 Tech Stack
 
@@ -85,15 +96,9 @@
 
 ---
 
-# 🌎 Connect With Me
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
 
----
+
 
 <!-- 3D Avatar -->
 <p align="center">
