@@ -1,16 +1,133 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/humayungit815/my-docs/blob/main/banner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**humayungit815/humayungit815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi,+I+am+Humayun+Kabir;MERN+Stack+Developer;Building+Scalable+Web+Apps;Clean+Code+Advocate" alt="Typing Animation" />
+</p>
+
+---
+
+# 👤 About Me
+
+💡 I love transforming complex ideas into elegant digital experiences.  
+🚀 Focused on MERN stack and scalable UI architecture.  
+🎨 Design lover — I care about aesthetics, micro-animation, and user emotion.
+
+- 🔭 Currently working on: **Full Stack MERN Projects**
+- 📚 Learning: **Design Patterns & Clean Architecture**
+- 🎯 Future Goal: **Senior Frontend Engineer**
+- ⚡ Code Philosophy: *“If the code looks beautiful, the product feels powerful.”*
+
+---
+
+
+# 🧠 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### ⚙ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=humayungit815&theme=algolia&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humayungit815&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humayungit815&theme=react&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayungit815&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humayungit815&theme=react-dark&hide_border=true&radius=12" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎨 Modern Portfolio
+Creative UI • Animation • Tailwind + React  
+🔗 Live: your-link  
+💻 Code: https://github.com/humayungit815/your-portfolio
+
+---
+
+## 🛒 E-Commerce MERN App
+Cart • Auth • Admin Panel  
+🔗 Live: your-link  
+💻 Code: your-repo-link
+
+---
+
+## ✍️ Blog Application
+Full CRUD • JWT Auth • Dashboard  
+🔗 Live: your-link  
+💻 Code: your-repo-link
+
+---
+
+# 🏅 Achievements
+
+- 🔥 100+ hours coding experience  
+- 🎯 Built production-level apps  
+- 🧩 Passionate UI problem solver  
+- 🧠 Deep understanding of React patterns  
+
+---
+
+# 🌎 Connect With Me
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+<!-- 3D Avatar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_3d.gif" width="240" />
+</p>
+
+<!-- Stats Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=humayungit815&label=Profile+Views&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/humayungit815?style=for-the-badge&color=00D9FF" />
+</p>
+
+<p align="center">
+  ⭐ If my work inspires you, please consider giving a star!
+</p>
