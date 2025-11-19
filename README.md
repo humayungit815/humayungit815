@@ -2,7 +2,7 @@
   <img src="https://github.com/humayungit815/my-docs/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-<br><br>
+<br>
 
 
 <!-- Animated Typing Banner -->
